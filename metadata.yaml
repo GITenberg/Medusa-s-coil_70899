@@ -1,0 +1,47 @@
+_repo: Medusa-s-coil_70899
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bishop, Zealia B. (Zealia Brown)
+    aliases:
+    - Bishop, Z.B.
+    - Bishop, Z. B.
+    - Bishop, Zealia Brown-Reed
+    - Bishop, Zelia B.
+    birthdate: 1897
+    deathdate: 1968
+    gutenberg_agent_id: '55985'
+    url: http://www.gutenberg.org/2009/agents/55985
+    wikipedia: https://en.wikipedia.org/wiki/Zealia_Bishop
+  - agent_name: Lovecraft, H. P. (Howard Phillips)
+    aliases:
+    - Lovecraft, Howard Phillips
+    - Littlewit, Humphrey
+    - Lovecraft, H.P.
+    birthdate: 1890
+    deathdate: 1937
+    gutenberg_agent_id: '34724'
+    url: http://www.gutenberg.org/2009/agents/34724
+    wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Medusa%27s_Coil'
+gutenberg_issued: '2023-06-02'
+identifiers:
+  gutenberg: '70899'
+language: en
+pgterms:marc904: https://archive.org/details/WeirdTalesV33N01193901/page/n3/mode/2up
+pgterms:marc905: 20230309064541bishop
+pgterms:marc906: '1939'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bWeird Tales, $c1939.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcsh 'Missouri -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Medusa's coil
+url: http://www.gutenberg.org/ebooks/70899
